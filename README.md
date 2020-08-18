@@ -9,4 +9,4 @@
 - styled-components
 - mobx
 
-## decorator setting( eject 없이 )
+### decorator setting( eject 없이 )
