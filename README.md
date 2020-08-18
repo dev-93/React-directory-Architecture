@@ -5,7 +5,7 @@
 ## package manager
 - yarn
 
-## packago json 추가사항
+## package.json 추가사항
 - styled-components
 - mobx
 
